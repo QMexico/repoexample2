@@ -1,2 +1,1 @@
-# repoexample2
-repo para hacer pruebas
+# repoexample2repo para hacer pruebascambio  en readme
