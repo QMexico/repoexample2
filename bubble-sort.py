@@ -18,7 +18,7 @@ def bubbleSort(arr):
 
 
 # arreglo de prueba
-arr = [64, 34, 25, 12, 22, 11, 90]
+arr = [64, 34, 25, 12, 22, 11, 90, -1, 0, -3]
 
 bubbleSort(arr)
 
