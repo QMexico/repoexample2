@@ -1,4 +1,4 @@
-# Omplementación del ordenamiento de burbuja
+# Implementación del ordenamiento de burbuja
 
 def bubbleSort(arr):
     n = len(arr)
@@ -24,4 +24,4 @@ bubbleSort(arr)
 
 print("Sorted array is:")
 for i in range(len(arr)):
-    print("%d" % arr[i]),
+    print("%d" % arr[i])
